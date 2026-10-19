@@ -11,6 +11,7 @@ Estoy formándome en ciberseguridad y me interesan especialmente el pentesting y
 | Actividad | Evidencia | Estado |
 |---|---|---|
 | Declaración profesional | [Ver declaración](declaracion-profesional.md) | Redactada y revisada según los cinco criterios de autoevaluación; pendiente de validación personal |
+| Auditoría interna de Botium Toys | [Ver auditoría](proyectos/auditoria-botium-toys/README.md) | Completada: 14 controles, 12 prácticas de cumplimiento y recomendaciones |
 
 Se añadirán nuevas actividades a medida que se realicen. Solo se presentarán como completados los trabajos con evidencias disponibles.
 
