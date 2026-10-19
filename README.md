@@ -16,6 +16,7 @@ Estoy formándome en ciberseguridad y me interesan especialmente el pentesting y
 | Gestión de permisos en Linux | [Ver procedimiento](proyectos/permisos-linux/README.md) | Borrador: pendiente de permisos originales y verificación del laboratorio |
 | Filtros de seguridad con SQL | [Ver consultas](proyectos/filtros-sql/README.md) | Documentado: seis consultas; esquema y resultados del laboratorio pendientes de verificar |
 | Evaluación de vulnerabilidades | [Ver evaluación](proyectos/evaluacion-vulnerabilidades/README.md) | Completada: descripción y alcance contrastados con la plantilla; cinco criterios revisados |
+| Diario del gestor de incidentes | [Ver diario](proyectos/diario-incidentes/README.md) | Entrada 1 completada: ransomware en clínica sanitaria y análisis de las 5 W |
 
 Se añadirán nuevas actividades a medida que se realicen. Solo se presentarán como completados los trabajos con evidencias disponibles.
 
