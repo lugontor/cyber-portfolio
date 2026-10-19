@@ -1,0 +1,23 @@
+# Portfolio de Ciberseguridad
+
+Portfolio de aprendizaje del Certificado Profesional de Ciberseguridad de Google en Coursera.
+
+## Sobre mí
+
+Estoy formándome en ciberseguridad y me interesan especialmente el pentesting y el hacking ético. Quiero aprender a identificar y evaluar vulnerabilidades mediante pruebas autorizadas para contribuir a la protección de sistemas y datos. Este portfolio reúne las actividades y los proyectos que voy preparando durante el certificado, junto con sus procesos, resultados y reflexiones.
+
+## Actividades
+
+| Actividad | Evidencia | Estado |
+|---|---|---|
+| Declaración profesional | [Ver declaración](declaracion-profesional.md) | Redactada y revisada según los cinco criterios de autoevaluación; pendiente de validación personal |
+
+Se añadirán nuevas actividades a medida que se realicen. Solo se presentarán como completados los trabajos con evidencias disponibles.
+
+## Criterios de documentación
+
+Cada proyecto incluirá su contexto, objetivo, proceso, herramientas, evidencias y aprendizajes, según corresponda. Los casos simulados se identificarán como prácticas educativas y se omitirán datos personales, credenciales e información confidencial.
+
+## Certificado
+
+**Estado:** en formación. El enlace de verificación se incorporará cuando esté disponible.
