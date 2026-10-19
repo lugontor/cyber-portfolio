@@ -15,7 +15,7 @@ Estoy formándome en ciberseguridad y me interesan especialmente el pentesting y
 | Informe de incidente DoS por ICMP | [Ver informe](proyectos/incidente-dos-icmp/README.md) | Completado y revisado según los seis criterios; comparación con el ejemplo pendiente |
 | Gestión de permisos en Linux | [Ver procedimiento](proyectos/permisos-linux/README.md) | Borrador: pendiente de permisos originales y verificación del laboratorio |
 | Filtros de seguridad con SQL | [Ver consultas](proyectos/filtros-sql/README.md) | Documentado: seis consultas; esquema y resultados del laboratorio pendientes de verificar |
-| Evaluación de vulnerabilidades | [Ver evaluación](proyectos/evaluacion-vulnerabilidades/README.md) | Preliminar: tres riesgos y remediación; pendiente de descripción técnica y alcance de la plantilla |
+| Evaluación de vulnerabilidades | [Ver evaluación](proyectos/evaluacion-vulnerabilidades/README.md) | Completada: descripción y alcance contrastados con la plantilla; cinco criterios revisados |
 
 Se añadirán nuevas actividades a medida que se realicen. Solo se presentarán como completados los trabajos con evidencias disponibles.
 
