@@ -14,6 +14,7 @@ Estoy formándome en ciberseguridad y me interesan especialmente el pentesting y
 | Auditoría interna de Botium Toys | [Ver auditoría](proyectos/auditoria-botium-toys/README.md) | Completada: 14 controles, 12 prácticas de cumplimiento y recomendaciones |
 | Informe de incidente DoS por ICMP | [Ver informe](proyectos/incidente-dos-icmp/README.md) | Completado y revisado según los seis criterios; comparación con el ejemplo pendiente |
 | Gestión de permisos en Linux | [Ver procedimiento](proyectos/permisos-linux/README.md) | Borrador: pendiente de permisos originales y verificación del laboratorio |
+| Filtros de seguridad con SQL | [Ver consultas](proyectos/filtros-sql/README.md) | Documentado: seis consultas; esquema y resultados del laboratorio pendientes de verificar |
 
 Se añadirán nuevas actividades a medida que se realicen. Solo se presentarán como completados los trabajos con evidencias disponibles.
 
