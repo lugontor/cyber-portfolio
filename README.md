@@ -18,6 +18,8 @@ Estoy formándome en ciberseguridad y me interesan especialmente el pentesting y
 | Evaluación de vulnerabilidades | [Ver evaluación](proyectos/evaluacion-vulnerabilidades/README.md) | Completada: descripción y alcance contrastados con la plantilla; cinco criterios revisados |
 | Diario del gestor de incidentes | [Ver diario](proyectos/diario-incidentes/README.md) | Entrada 1 completada: ransomware en clínica sanitaria y análisis de las 5 W |
 
+| Actualización de archivos con Python | [Ver algoritmo](proyectos/actualizacion-archivos-python/README.md) | Completado: código explicado y verificado con seis casos de datos ficticios |
+
 Se añadirán nuevas actividades a medida que se realicen. Solo se presentarán como completados los trabajos con evidencias disponibles.
 
 ## Criterios de documentación
